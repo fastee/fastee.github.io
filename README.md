@@ -28,3 +28,18 @@
 - 在 `index.html` 中可以添加或修改资源卡片
 - 在 `styles.css` 中可以修改颜色、间距等样式
 - 可以更换 Font Awesome 图标，访问 [Font Awesome](https://fontawesome.com/icons) 查看更多图标 
+
+## 资源列表
+
+- 主站：https://home.newsoft.top/index
+- Kanban：https://home.newsoft.top/kanban
+- GitHub：https://github.com
+- Stack Overflow：https://stackoverflow.com
+- 哔哩哔哩：https://www.bilibili.com
+- 掘金：https://juejin.cn
+- 知乎：https://www.zhihu.com
+- 博客园：https://www.cnblogs.com
+- 简书：https://www.jianshu.com
+- 思否：https://segmentfault.com
+- 开源中国：https://www.oschina.net
+- 码云：https://gitee.com
